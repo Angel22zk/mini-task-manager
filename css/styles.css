@@ -1,0 +1,12 @@
+/* Estilos generales de la página */
+body {
+    font-family: Arial, sans-serif; /* tipo de letra */
+    background-color: #eaf2f8; /* Color de fondo */
+    color: #333333; /* Color del texto */
+}
+
+/* Titulo principal */
+h1 {
+    color: #16a34a; /* Color del texto */
+    font-size: 36px; /* Tamaño de letra */
+}
